@@ -1,3 +1,3 @@
 #Digital Portfolio
 PROJECT WEBSITE
-https://github.com/aasifah12/portfolio.git
+https://aasifah12.github.io/portfolio/
